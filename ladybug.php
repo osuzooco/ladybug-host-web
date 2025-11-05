@@ -1,3 +1,39 @@
+<div class="terminal">
+<?php
+
+
+?>    <div class="glitch">⚡ PROTOCOLO 3w ACTIVADO ⚡</div>
+    <div class="typing">🚫 WUAN MOTOR: ACCESS RESTRICTED</div>
+    
+    <!-- Audio -->
+    <audio controls autoplay loop>
+        <source src="solace_oblivion.mp3" type="audio/mpeg">
+    </audio>
+    
+    <!-- Tus mensajes de seguridad aquí -->
+    <div class="warning">🕊️ PLEASE CONFESS TO GOD AND DO NOT DO SINS MORE AGAIN 🕊️</div>
+    <!-- ... resto del contenido ... -->
+    
+    <!-- FIRMA MOSHA CON DOKDO -->
+    <div class="mosha-signature">
+        🦝 MOSHA · WHITE LADYBUG · 3w 🐞
+    </div>
+    
+    <div class="credits">
+
+        <?php
+$modo_3w = isset($_GET['3w']) || isset($_GET['wuan']);
+echo "<!-- DEBUG: modo_3w = " . ($modo_3w ? 'TRUE' : 'FALSE') . " -->";
+
+if ($modo_3w) {
+    echo "<!-- DEBUG: Entrando en modo 3w -->";
+    // ... tu código 3w ...
+    exit();
+}
+?>
+    </div>
+</div>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -233,7 +269,7 @@
             <!-- Mensaje Inclusivo -->
             <div class="mensaje-campeones">
                 <h2>¡TODOS SOMOS CAMPEONES! 🏆</h2>
-                <p style="margin: 10px 0 0; font-size: 1.2em;">En Training Sport Family, celebramos el esfuerzo de cada niño</p>
+                <p style="margin: 10px 0 0; font-size: 1.2em;">En Training Sport Family, celebramos el esfuerzo de cada niño, ¡AQUÌ TODOS SE DIVIERTEN!</p>
             </div>
         </section>
         
