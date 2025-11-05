@@ -14,4 +14,6 @@ Also this is my first time with XAMPP and at this time i use localhost and i am 
 
 *The color pallete i used is attractive for a kid-training center web page also if u want to contribute in a way please contact at thebaghel@gmail.com or osuzooco@gmail.com also in thebaghel in Discord (Please email and dont DM in Discord if you have G-mail.
 
+Also i don't upload a file because it is private i mean it has my IP Address and Client Database stuff so i cannot share it guys.
+
 Bye, (made by Mosha) :)
