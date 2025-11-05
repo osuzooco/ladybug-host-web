@@ -1,35 +1,116 @@
-<div class="terminal">
 <?php
-
-
-?>    <div class="glitch">⚡ PROTOCOLO 3w ACTIVADO ⚡</div>
-    <div class="typing">🚫 WUAN MOTOR: ACCESS RESTRICTED</div>
-    
-    <!-- Audio -->
-    <audio controls autoplay loop>
-        <source src="solace_oblivion.mp3" type="audio/mpeg">
-    </audio>
-    
-    <!-- Tus mensajes de seguridad aquí -->
-    <div class="warning">🕊️ PLEASE CONFESS TO GOD AND DO NOT DO SINS MORE AGAIN 🕊️</div>
-    <!-- ... resto del contenido ... -->
-    
-    <!-- FIRMA MOSHA CON DOKDO -->
-    <div class="mosha-signature">
-        🦝 MOSHA · WHITE LADYBUG · 3w 🐞
-    </div>
-    
-    <div class="credits">
-
-        <?php
+// ===== MODO 3w SECRETO =====
 $modo_3w = isset($_GET['3w']) || isset($_GET['wuan']);
-echo "<!-- DEBUG: modo_3w = " . ($modo_3w ? 'TRUE' : 'FALSE') . " -->";
 
 if ($modo_3w) {
-    echo "<!-- DEBUG: Entrando en modo 3w -->";
-    // ... tu código 3w ...
+    // ===== MODO 3w CLÁSICO =====
+?>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protocolo 3w Activado</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dokdo&family=Share+Tech+Mono&display=swap');
+        
+        :root {
+            --hacker-green: #00ff00;
+            --matrix-dark: #0a0a0a;
+            --warning-red: #ff0033;
+        }
+        
+        body {
+            background: var(--matrix-dark);
+            color: var(--hacker-green);
+            font-family: 'Share Tech Mono', monospace;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .terminal {
+            border: 2px solid var(--hacker-green);
+            padding: 30px;
+            max-width: 800px;
+            box-shadow: 0 0 30px var(--hacker-green);
+            background: rgba(10, 10, 10, 0.95);
+            text-align: center;
+        }
+        
+        .glitch {
+            font-family: 'Dokdo', cursive;
+            font-size: 3em;
+            margin-bottom: 20px;
+            animation: glitch 2s infinite;
+        }
+        
+        @keyframes glitch {
+            0% { text-shadow: 2px 2px 0px var(--hacker-green); }
+            50% { text-shadow: -2px -2px 0px var(--warning-red); }
+            100% { text-shadow: 2px 2px 0px var(--hacker-green); }
+        }
+        
+        .warning {
+            color: var(--warning-red);
+            border: 1px solid var(--warning-red);
+            padding: 15px;
+            margin: 20px 0;
+            font-weight: bold;
+        }
+        
+        .mosha-signature {
+            font-family: 'Dokdo', cursive;
+            font-size: 2em;
+            margin: 20px 0;
+        }
+        
+        audio {
+            width: 100%;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <div class="glitch">⚡ PROTOCOLO 3w ACTIVADO ⚡</div>
+        <div>🚫 WUAN MOTOR: ACCESS RESTRICTED</div>
+        
+        <!-- Audio -->
+        <audio controls autoplay loop>
+            <source src="solace_oblivion.mp3" type="audio/mpeg">
+        </audio>
+        
+        <div class="warning">🕊️ PLEASE CONFESS TO GOD AND DO NOT DO SINS MORE AGAIN 🕊️</div>
+        
+        <div>📧 osuzooco@gmail.com | thebaghel@gmail.com</div>
+        
+        <div style="margin: 20px 0; border-top: 1px solid var(--hacker-green); padding-top: 20px;">
+            HELLO THE MOTOR IS WUAN AND YOU CAN'T ACCEED TEH FILES<br>
+            <span style="font-family: 'Dokdo', cursive; font-size: 2em;">3w!</span><br>
+            3w is a reference for inhackable<br>
+            <span style="color: var(--warning-red);">
+                (login MySQL injection attack try; Hydra 36 usernames; IP 192.1.4.8)
+            </span>
+        </div>
+        
+        <div class="mosha-signature">
+            🦝 MOSHA · WHITE LADYBUG · 3w 🐞
+        </div>
+        
+        <div style="opacity: 0.7;">
+            Thumbnail by me (mosha) | Audio: Helblinde | Font: Dokdo by Fontrix
+        </div>
+    </div>
+</body>
+</html>
+<?php
     exit();
 }
+// ===== FIN MODO 3w =====
 ?>
     </div>
 </div>
@@ -233,6 +314,17 @@ if ($modo_3w) {
 </head>
 <body>
     <div class="container">
+
+
+
+    <!-- ===== MENÚ FIJO ARRIBA ===== -->
+<nav style="background: var(--morado); padding: 15px; text-align: center; position: sticky; top: 0; z-index: 1000;">
+    <a href="ladybug.php" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">🏠 Inicio</a>
+    <a href="ldbg_about.php" style="color: white; margin: 0 15px; text-decoration: bold;">👥 Nosotros</a>
+    <a href="#inscripcion" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">📝 Inscripción</a>
+</nav>
+
+
         <!-- ===== ENCABEZADO PRINCIPAL ===== -->
         <header style="text-align: center; margin-bottom: 40px;">
             <h1 style="font-size: 3em; margin-bottom: 10px;">🏃 Training Sport Family 🏃‍♀️</h1>
