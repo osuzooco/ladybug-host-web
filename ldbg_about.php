@@ -41,7 +41,7 @@
         <h1>👥 Sobre Nosotros</h1>
         
         <h2>📖 Nuestra Historia</h2>
-        <p>Training Sport Family comenzó en 2018-2023 con la misión de crear un espacio donde los niños aprendan valores a través del deporte.</p>
+        <p>Training Sport Family comenzó en 2023 con la misión de crear un espacio donde los niños aprendan valores a través del deporte.</p>
         
         <h2>🎯 Nuestra Misión</h2>
         <p>Formar niños felices y seguros mediante la práctica deportiva y el desarrollo de valores.</p>
@@ -50,4 +50,5 @@
         <p>Respeto, Esfuerzo, Diversión e Inclusión para todos nuestros pequeños campeones.</p>
     </div>
 </body>
+
 </html>
