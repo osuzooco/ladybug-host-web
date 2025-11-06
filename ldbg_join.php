@@ -114,7 +114,7 @@
             <div class="form-group">
                 <label for="edad">🎂 Edad:</label>
                 <input type="number" id="edad" name="edad" required 
-                       min="3" max="12" placeholder="Ej: 8">
+                       min="3" max="17" placeholder="Ej: 8">
             </div>
             
             <div class="form-group">
@@ -167,4 +167,5 @@
         </div>
     </div>
 </body>
+
 </html>
