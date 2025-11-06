@@ -1,0 +1,26 @@
+# ARCHIVOS GRANDES - NO SUBIR
+*.mp3
+*.mp4
+*.wav
+*.avi
+*.zip
+*.rar
+
+# ARCHIVOS DE DATOS SENSIBLES
+inscripciones.json
+*.json
+*.db
+
+# ARCHIVOS DE SISTEMA
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# CARPETAS DE EDITOR
+.vscode/
+.idea/
+
+# ARCHIVOS DE CONFIGURACIÓN
+.env
+config.php
