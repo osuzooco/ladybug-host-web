@@ -1,13 +1,10 @@
-repositories:
-  - name: pokeapi
+repository:
+  - name: ladybug-host-web
     owner: osuzooco
-    repo_id: 1098529626
-    release: 1.0
-    description: ""
+    repo_id: 1090522064
+    description: "This is my first public web i am so excited for y'all se the final result i'll update the files every time i change something, bye."
     languages:
-      - name: Shell
-        percent: 63.8
-      - name: Python
-        percent: 36.2
-    framework: None
-    platform: Windows
+      - name: PHP
+        percent: 71.4
+      - name: Hack
+        percent: 28.6
