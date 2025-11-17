@@ -1,0 +1,13 @@
+repositories:
+  - name: pokeapi
+    owner: osuzooco
+    repo_id: 1098529626
+    release: 1.0
+    description: ""
+    languages:
+      - name: Shell
+        percent: 63.8
+      - name: Python
+        percent: 36.2
+    framework: None
+    platform: Windows
