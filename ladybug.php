@@ -494,8 +494,9 @@ if ($modo_3w) {
     
     <!-- ===== PIE DE PÁGINA ===== -->
     <footer style="text-align: center; padding: 30px; background: var(--morado); color: white; margin-top: 50px;">
-        <p style="margin: 0; font-size: 1.1em;">🏆 Training Sport Family - Desarrollado por Mosha 🦝</p>
+        <p style="margin: 0; font-size: 1.1em;">🏆 Training Sport Family - Desarrollado por @Mishu ≽ ^⎚ ˕ ⎚^ ≼</p>
         <p style="margin: 10px 0 0; opacity: 0.8;">¡Cada niño es un campeón en potencia!</p>
     </footer>
 </body>
+
 </html>
